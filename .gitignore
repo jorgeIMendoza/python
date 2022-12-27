@@ -132,6 +132,6 @@ dmypy.json
 # otros
 *.breakpoints
 *.replit
-*.lock
+poetry.lock
 *.toml
 *.nix

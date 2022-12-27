@@ -8,3 +8,4 @@ miNombre = input("dame tu nombre")
 print('el nombre que puso es:', miNombre)
 """ a hacer otra cosa
 """
+#empezamos de nuevo
