@@ -130,8 +130,8 @@ dmypy.json
 
 
 # otros
-.breakpoints
-.replit
-.lock
-.toml
-.nix
+*.breakpoints
+*.replit
+*.lock
+*.toml
+*.nix
